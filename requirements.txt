@@ -1,0 +1,7 @@
+fastApi
+unicorn
+sqlalchemy
+sqlite
+websockets
+httpx
+pydantic-settings

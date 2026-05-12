@@ -1,0 +1,5 @@
+streams:
+  cam1:
+    - rtsp://<user>:<password>@<server>:554/Streaming/Channels/101    
+  cam2:
+    - rtsp://<user>:<password>@<server>:554/Streaming/Channels/101 
